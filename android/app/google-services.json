@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092327208792",
+    "project_id": "food-expenses-c69a8",
+    "storage_bucket": "food-expenses-c69a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092327208792:android:b3a1a105ed15352d8c572d",
+        "android_client_info": {
+          "package_name": "com.chanon.food_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092327208792-u6djbjo21vfdd1g3rrfk6sl2rehpo0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxwTTG_sbjfHmFjCgkcpvnpLvpTkDzTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092327208792-u6djbjo21vfdd1g3rrfk6sl2rehpo0b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
